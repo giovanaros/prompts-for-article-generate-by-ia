@@ -1,4 +1,10 @@
-!.github/assets/ArtigoPythonListasDicionarios.png
+
+<p align="center">
+  <img 
+    src=".github/assets/ArtigoPythonListasDicionarios.png"
+    width="400"  
+  />
+</p>
 # COMO RESOLVER PROBLEMAS COMUNS EM PYTHON USANDO LISTAS, TULAS E DICIONÁRIOS: EXEMPLOS PRÁTICOS
 
 ## O que são listas
