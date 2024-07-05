@@ -12,9 +12,9 @@ Pense em um dicionário de verdade, onde você tem palavras e suas definições.
 ##Exemplos com código de listas
 Aqui está como criar uma lista em Python:
 
-'''brinquedos = ["carrinho", "boneca", "bola"]
-print(brinquedos)
-E se você quiser adicionar mais brinquedos:
+    brinquedos = ["carrinho", "boneca", "bola"]
+    print(brinquedos)
+    E se você quiser adicionar mais brinquedos:
 
 '''brinquedos.append("avião")
 print(brinquedos)
