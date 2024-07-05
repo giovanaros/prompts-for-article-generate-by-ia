@@ -1,4 +1,4 @@
-.github/assets/ArtigoPythonListasDicionarios.png
+!.github/assets/ArtigoPythonListasDicionarios.png
 # COMO RESOLVER PROBLEMAS COMUNS EM PYTHON USANDO LISTAS, TULAS E DICIONÁRIOS: EXEMPLOS PRÁTICOS
 
 ## O que são listas
