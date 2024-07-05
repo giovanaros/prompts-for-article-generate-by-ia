@@ -1,4 +1,4 @@
-#COMO RESOLVER PROBLEMAS COMUNS EM PYTHON USANDO LISTAS, TULAS E DICIONÁRIOS: EXEMPLOS PRÁTICOS
+# COMO RESOLVER PROBLEMAS COMUNS EM PYTHON USANDO LISTAS, TULAS E DICIONÁRIOS: EXEMPLOS PRÁTICOS
 
 ## O que são listas
 Imagina que você tem uma fila de brinquedos na sua prateleira, um atrás do outro. No Python, uma lista é como essa fila. Ela guarda vários itens em uma ordem específica. Você pode colocar qualquer coisa dentro dessa lista, como números, palavras, ou até outras listas!
@@ -24,9 +24,9 @@ Para criar uma tupla, é assim:
     figurinhas = ("leão", "tigre", "urso")
     print(figurinhas)
 E você não pode mudar as figurinhas:
-
-## Isso dá erro
+Isso dá erro
     figurinhas[0] = "elefante"
+    
 Exemplos com código de dicionários
 Agora vamos ver um dicionário:
 
