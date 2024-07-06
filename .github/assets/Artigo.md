@@ -49,7 +49,7 @@ E se você quiser adicionar uma nova palavra ao seu dicionário:
     print(dicionario_de_brinquedos)
 
 ## Call to Action
-## Curtiu aprender sobre listas, tuplas e dicionários? Não deixe de me seguir nas redes sociais para mais dicas e truques de programação! Siga-me no Twitter, LinkedIn, e Instagram para ficar por dentro das novidades.
+Curtiu aprender sobre listas, tuplas e dicionários? Não deixe de me seguir nas redes sociais para mais dicas e truques de programação! Siga-me no Twitter, LinkedIn, e Instagram para ficar por dentro das novidades.
 
 ## Hashtags
 #PythonSimples #CódigoDivertido #AprendizadoTech
