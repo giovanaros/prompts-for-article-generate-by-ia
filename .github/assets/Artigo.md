@@ -48,8 +48,8 @@ E se você quiser adicionar uma nova palavra ao seu dicionário:
     dicionario_de_brinquedos["bola"] = "Um brinquedo redondo para jogar"
     print(dicionario_de_brinquedos)
 
-##Call to Action
-##Curtiu aprender sobre listas, tuplas e dicionários? Não deixe de me seguir nas redes sociais para mais dicas e truques de programação! Siga-me no Twitter, LinkedIn, e Instagram para ficar por dentro das novidades.
+## Call to Action
+## Curtiu aprender sobre listas, tuplas e dicionários? Não deixe de me seguir nas redes sociais para mais dicas e truques de programação! Siga-me no Twitter, LinkedIn, e Instagram para ficar por dentro das novidades.
 
-Hashtags
+## Hashtags
 #PythonSimples #CódigoDivertido #AprendizadoTech
