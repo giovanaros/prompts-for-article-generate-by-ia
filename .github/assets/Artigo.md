@@ -1,7 +1,7 @@
 
 <p align="center">
   <img 
-    src=".github/assets/ArtigoPythonListasDicionarios.png"
+    src="https://github.com/giovanaros/prompts-for-article-generate-by-ia/blob/main/.github/assets/ArtigoPythonListasDicionarios.png?raw=true"
     width="400"  
   />
 </p>
